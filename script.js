@@ -1,0 +1,1 @@
+document.getElementById("click_function").innerHTML = "I love Allah."
