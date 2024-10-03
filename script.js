@@ -11,3 +11,7 @@ document.getElementById("feature_3.0.1").innerHTML = functon.make_sum();
 
 //Another Feature for Three
 document.getElementById("feature_3.1.0").Infinity = functon.driver();
+
+//Testing Checkout Function
+document.getElementById("feature_3.1.0").Infinity = functon.testing();
+
